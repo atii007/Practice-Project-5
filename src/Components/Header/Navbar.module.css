@@ -1,0 +1,22 @@
+.nav-container{
+    overflow: hidden; width:100%;
+    margin:auto;
+    height:25%;
+    display: flex;
+    justify-content:center;
+}
+.nav-list{
+    list-style-type:none;
+    margin:0;
+    padding-left:0;
+}
+.list{
+    float:left;
+    padding:25px 35px 0px 35px;
+}
+.list a{
+    text-decoration:none;
+    color:#37444f;
+    font-size:1.5vw;
+    font-family:arial;
+}

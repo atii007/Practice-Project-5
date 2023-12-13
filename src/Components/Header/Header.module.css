@@ -1,0 +1,42 @@
+
+.main-container{
+    display:block
+}
+
+.main-header{
+    display: inline-flex;
+background-color: #e1e8ee;
+width: 100%;
+height: 8vh;
+}
+
+.fa{
+    font-size:23px;
+    margin-right:5px;
+}
+
+.header1{
+    top:0;
+    overflow:hidden;
+    width: 100%;
+    display: block;
+    height: 40%;
+    margin: auto !important;
+}
+.header1-container{
+    margin: auto;
+    width: 18%;
+    height: 70%;
+    margin: auto;
+}
+.header-img{
+    width:100%;
+    padding-top:10px;
+}
+.center_banner{
+    width: 100%;
+} 
+
+
+
+
